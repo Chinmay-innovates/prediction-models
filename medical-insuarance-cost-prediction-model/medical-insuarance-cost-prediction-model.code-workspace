@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "medical-insuarance-cost-prediction-model",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.typeCheckingMode": "off"
+	}
+}
